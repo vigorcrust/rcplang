@@ -1,7 +1,6 @@
 ---
 title: Honey Salad Dressing
-description: A heavy, flavorfull salad dressing, great for an 
-evening with red wine and cheese.
+description: A heavy, flavorfull salad dressing, great for an evening with red wine and cheese.
 author: John Doe
 ---
 - Mustard {amount:"1 EL", calories:"100"}
